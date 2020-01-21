@@ -1,0 +1,1 @@
+btspp://001403060D5B:1;authenticate=false;encrypt=false;master=false
